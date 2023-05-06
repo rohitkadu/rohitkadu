@@ -48,6 +48,6 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkadu&show_icons=true&locale=en" alt="rohitkadu" /></p>
 </div>
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkadu&layout=compact"/>
-</div>
+</div> -->
