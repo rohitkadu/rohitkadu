@@ -19,13 +19,13 @@
 
 <img align="right" alt="coder" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently working on **Social Community Project**
+- 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **DevOps/ AI & ML/ DSA**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **ReactJS/ MERN/ C++/ Python/ JS/ Android Dev / UI-UX**
 
-- 📫 How to reach me **rohitkadufreelance@gmail.com**
+- 📫 How to reach me **rohitkadu3102@gmail.com**
 
 - ⚡ Fun fact **extremely Confident Folk & I ❤️ Coding, Psychology, Business, Creative Arts.**
 
